@@ -1,8 +1,6 @@
 # Quantitative Research Dashboard
 
-A portfolio project demonstrating production-quality quant engineering skills. Features a FastAPI backend with SQLAlchemy ORM, a Dash frontend with Bootstrap styling, and a Moving Average Crossover backtest engine built on pandas + yfinance.
-
-Built as a portfolio project for quant internship applications (Qube Research & Technologies).
+A portfolio project demonstrating featuring a FastAPI backend with SQLAlchemy ORM, a Dash frontend with Bootstrap styling, and a Moving Average Crossover backtest engine built on pandas + yfinance.
 
 ---
 
